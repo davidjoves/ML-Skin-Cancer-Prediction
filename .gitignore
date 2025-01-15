@@ -1,3 +1,3 @@
 dataset/skin-cancer-mnist-ham10000.zip
-dataset/skin_cancer_mnist_data/HAM10000_images_part_1
-dataset/skin_cancer_mnist_data/HAM10000_images_part_2
+HAM10000_images_part_1
+HAM10000_images_part_2
