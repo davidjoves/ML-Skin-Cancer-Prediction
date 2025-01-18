@@ -6,3 +6,4 @@ dataset/hmnist_8_8_L.csv
 dataset/hmnist_8_8_RGB.csv
 dataset/hmnist_28_28_L.csv 
 dataset/hmnist_28_28_RGB.csv
+dataset/28x28_images.csv
